@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'com.thesgjtech.scicalc'
-    compileSdk 34
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.thesgjtech.scicalc"
