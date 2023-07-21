@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.thesgjtech.scicalc'
+    namespace 'com.thesgjtech.calendarlite'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.thesgjtech.scicalc"
+        applicationId "com.thesgjtech.calendarlite"
         minSdk 22
         targetSdk 32
         versionCode 1

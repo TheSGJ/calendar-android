@@ -1,4 +1,4 @@
-package com.thesgjtech.scicalc;
+package com.thesgjtech.calendarlite;
 
 import org.junit.Test;
 

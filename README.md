@@ -1,10 +1,10 @@
-# Calculator Android App using Java
+# Calendar Android App using Java
 ### This repository contains the source code, inorder to compile this using the gradle
-- Calculator Android App made using Java Lang. Can find scientific or some basic calculations using this.
+- Calendar Android App made using Java Lang. Can find scientific or some basic calculations using this.
 
 - `# Clone the repository using:`
 
-> `git clone https://github.com/TheSGJ/Calculater-Java_AndroidApp.git`
+> `git clone https://github.com/TheSGJ/Calendar-Java_AndroidApp.git`
 > Or just download it from GitHub. 😅
 
 ### Usage - Compiling the app using (Debug)
@@ -63,7 +63,7 @@
 - Fork this repository and if you want add a new functionality or fix a bug by doing a pull request on this GitHub repository.
 
 # License
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/TheSGJ/Calculater-Java_AndroidApp/blob/master/LICENSE)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/TheSGJ/Calendar-Java_AndroidApp/blob/master/LICENSE)
 - You're free to use this code!
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://java.com/)
