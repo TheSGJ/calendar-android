@@ -12,7 +12,6 @@
       android:layout_marginLeft="150dp"
       android:layout_marginTop="20dp"
       android:text="Set the Date"
-      android:textColor="@android:color/background_dark"
       android:textStyle="bold" />
    <CalendarView
       android:id="@+id/calender"
